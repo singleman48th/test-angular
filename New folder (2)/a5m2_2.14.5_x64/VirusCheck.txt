@@ -1,0 +1,120 @@
+■ウィルスチェックおよびファイルのチェックサム
+　このファイルは本ソフトウェアがリリース前にウィルスチェックを行った際のレポートファイルです。
+　ただし、ウィルスに感染していないことを保証する物ではありません。
+
+　※ readme,ライセンス,更新履歴については readme.txt, license.txt, history.txtを参照して下さい。
+
+*****************************
+  ******** Virus check ********
+    *****************************
+
+ECLS コマンドラインスキャナ、バージョン12.2.23.0、(C) 1992-2019 ESET, spol. s r.o.
+機能loader、バージョン1018.1 (20190709)、ビルド1054
+機能perseus、バージョン1556.4 (20191107)、ビルド2072
+機能scanner、バージョン20356 (20191116)、ビルド43462
+機能archiver、バージョン1294 (20191029)、ビルド1311
+機能advheur、バージョン1195 (20191025)、ビルド1179
+機能cleaner、バージョン1200 (20190916)、ビルド1303
+
+コマンドライン: /log-all A5M2.exe A5M2.ENU A5M2.ENG libmongoc-1.0.dll libbson-1.0.dll vcruntime140.dll msvcp140.dll concrt140.dll sqlite3.dll scripts history.txt license.txt readme.txt license_en.txt readme_en.txt sampledb sample 
+
+スキャン開始時刻:   Sat Nov 16 18:14:33 2019
+名前="A5M2.exe"、脅威="は正常です"、アクション=""、情報=""
+名前="A5M2.ENU"、脅威="は正常です"、アクション=""、情報=""
+名前="A5M2.ENG"、脅威="は正常です"、アクション=""、情報=""
+名前="libmongoc-1.0.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="libbson-1.0.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="vcruntime140.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="msvcp140.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="concrt140.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="sqlite3.dll"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\Tool\SqlEmbededStr.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\FavoritesExport.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\FavoritesImport.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\OpenSchemaTable.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\oracle_procedureSources.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\oracle_viewSources.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeDB\reccount_query.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeTB\CsvCopy.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeTB\InsertStatements.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="scripts\TreeTB\TableInfo.dms"、脅威="は正常です"、アクション=""、情報=""
+名前="history.txt"、脅威="は正常です"、アクション=""、情報=""
+名前="license.txt"、脅威="は正常です"、アクション=""、情報=""
+名前="readme.txt"、脅威="は正常です"、アクション=""、情報=""
+名前="license_en.txt"、脅威="は正常です"、アクション=""、情報=""
+名前="readme_en.txt"、脅威="は正常です"、アクション=""、情報=""
+名前="sampledb\ShoppingSite.a5er"、脅威="は正常です"、アクション=""、情報=""
+名前="sampledb\ShoppingSite.mdb"、脅威="は正常です"、アクション=""、情報=""
+名前="sample\CreateTableDefinition.xls"、脅威="は正常です"、アクション=""、情報=""
+
+スキャン完了時刻: Sat Nov 16 18:14:35 2019
+スキャン時間:         2秒(0:00:02)
+合計:            ファイル - 27、オブジェクト 27
+感染:          ファイル - 0、オブジェクト 0
+駆除:           ファイル - 0、オブジェクト 0
+
+
+*****************************
+  ***** Checksum (SHA256) *****
+    *****************************
+
+\fc4a1a7007d6c73a6ecad764fe397891c65fa225f193eca6f99ef8a36048d47a *A5M2.exe
+\99d1f97255857a701a725146006ce60a5ca1d0f384d20a42eb7f3dd1f902eb1a *A5M2.ENU
+\99d1f97255857a701a725146006ce60a5ca1d0f384d20a42eb7f3dd1f902eb1a *A5M2.ENG
+\d28fd63c77f058be2568d5a5e992f6449c682ce5ef6ba85ac8c14df7a93286ce *libmongoc-1.0.dll
+\7d59e4ab45816829b73ead1d50409b61711c0d7af2d18ea6bdb74c858db4a4ef *libbson-1.0.dll
+\d89c7b863fc1ac3a179d45d5fe1b9fd35fb6fbd45171ca68d0d68ab1c1ad04fb *vcruntime140.dll
+\517cd3aac2177a357cca6032f07ad7360ee8ca212a02dd6e1301bf6cfade2094 *msvcp140.dll
+\511aba3d00b9925e7bc64e2132d77a76c1fd9e9d200ec0ef864b7a0f00c68995 *concrt140.dll
+\c2d1a026fd908b41bba3630ef9150108c05b7a3fbf024f1fe1baa0b20ba6d3d4 *sqlite3.dll
+\dda36be9f0d4af02a45bc8ff5d0c8f493f6f434feb5587f1f88defd2bf343585 *scripts\Tool\SqlEmbededStr.dms
+\fa9a5e1fb7999f6123437ff3f51a22fe93e8cfb8c4a6aee362304b41ad1d8bd8 *scripts\TreeDB\FavoritesExport.dms
+\20a310068637a3ecdcc5c22e9fac6ac387e619cda6a3259a9965a0b5e16860ef *scripts\TreeDB\FavoritesImport.dms
+\6fe139630fd1201f607d40c03732caa11065df7f4db99739f92714470635cf21 *scripts\TreeDB\OpenSchemaTable.dms
+\cbd27c610e55058d91060aba9339af824cdb613c03421c8fb17e0c2e01443c84 *scripts\TreeDB\oracle_procedureSources.dms
+\63f5007fbad81bee53204519ab2eb4aec6479987bfc6e56cb39a93db419144f8 *scripts\TreeDB\oracle_viewSources.dms
+\6ef930b992a47e7fc3577b7111f188f5e6cc9ace254b23cd478d700e20f5abcb *scripts\TreeDB\reccount_query.dms
+\b149996b03ada4a2e33d47a003c52017dc4d479d13f4344bd5ad92733d1c0c92 *scripts\TreeTB\CsvCopy.dms
+\b5bcafdfa2d37fc6cdf30dc2f2178c52640e6b2b7630e39ff366e1bb9f7dbcb9 *scripts\TreeTB\InsertStatements.dms
+\5fdbb4b372d67f04185d0535c94dd1f8fb4821186ec2d2c8eba42007b00c084b *scripts\TreeTB\TableInfo.dms
+\fe526c7b06260fc1b2d37bbd561c9f65aa9aa026de4923051d2c20647de8ea72 *history.txt
+\ed1014b304a1859689d3f637803ed16a155e48a1f14d22c2ca1500a031dc9cb7 *license.txt
+\218a5d8b35e13399ecc8cb865b583d3f4ad7dec566cb180a97fa8447e560de33 *readme.txt
+\23cc4b2b5696e1554c14d1d1989a75dba70e417140489229054e194b91fec100 *license_en.txt
+\9e3a9ead4d4cd5ff993b912dd227dc9eec8f37dfa8b19be5795eed1dc9646653 *readme_en.txt
+\80fbd1d9724236cf57b781ef4e4fea5797302d84f95eada9a71839e65841ef28 *sampledb\ShoppingSite.a5er
+\0ffd9d69b62dab213093365c375b597349af14b393c84064b8fff2cfd1dbe29b *sampledb\ShoppingSite.mdb
+\bd8e99d235bce8f299898eec0f529b096e588d6ff1af537c131ae96322425d46 *sample\CreateTableDefinition.xls
+
+
+*****************************
+  ****** Checksum (SHA1) ******
+    *****************************
+
+\98a768d32cfac097e47bf41e25fbeb8d05971f8d *A5M2.exe
+\10358ae00d153380bc768c1033d683d6e1d7ead4 *A5M2.ENU
+\10358ae00d153380bc768c1033d683d6e1d7ead4 *A5M2.ENG
+\52a5522f4d800a5c475582b3772b2c0faa78afda *libmongoc-1.0.dll
+\d1fae817b1b98d097e809a78bc4804285e4e95ad *libbson-1.0.dll
+\d247f5b9d4d3061e3d421e0e623595aa40d9493c *vcruntime140.dll
+\1a7a250d92a59c3af72a9573cffec2fcfa525f33 *msvcp140.dll
+\991891bb1ea603a002941696697f48cfe52cf94b *concrt140.dll
+\287f83230fc905e907a11f665ea3ca2db06baa80 *sqlite3.dll
+\048bb44fc0088e420313a8c3582b77fc48212361 *scripts\Tool\SqlEmbededStr.dms
+\006e5bd50062865aa4950a844db21fe0a33bc266 *scripts\TreeDB\FavoritesExport.dms
+\04ac86400403ff1aac625ef24274871128824b60 *scripts\TreeDB\FavoritesImport.dms
+\fc3a3851f8685810035dd8884b4da159d61dd639 *scripts\TreeDB\OpenSchemaTable.dms
+\d82b23ebaed882cdb57da007d60c92c984918f5f *scripts\TreeDB\oracle_procedureSources.dms
+\ca3e7c7e51629d01f9d48466c07cf4b2491b03ce *scripts\TreeDB\oracle_viewSources.dms
+\59ea705039e0f71ac2832b0ddaa72b157e3ee316 *scripts\TreeDB\reccount_query.dms
+\8645227ae6a4b3127b810d5c4f9304a6b7d1d661 *scripts\TreeTB\CsvCopy.dms
+\1ce900886f6318023351d4ca05f7db0b1af28498 *scripts\TreeTB\InsertStatements.dms
+\25b4da5050e6f276ae7fae4114b186c3b7c17497 *scripts\TreeTB\TableInfo.dms
+\4d992ec0a3ffddf1a1e0c0b1831d2a4dd89f8acc *history.txt
+\a6a0572fc3ef3f7f6eca2f934c46c7b0e04125b1 *license.txt
+\a7b478946f4abb58bec5d2da5f27bb2c8600eda2 *readme.txt
+\b92dee061357845c5ab88ec3e14ab525399f89d0 *license_en.txt
+\76f069503b9199af6f04f84571b81421145c383d *readme_en.txt
+\d48ac5143be0a5ac7a3f21c22e499a3061b9065d *sampledb\ShoppingSite.a5er
+\6e65a52b9269f5dcda9b6632dbad8429efd96b86 *sampledb\ShoppingSite.mdb
+\457d5e29f518fb711b374f0547ff86119c34daa4 *sample\CreateTableDefinition.xls

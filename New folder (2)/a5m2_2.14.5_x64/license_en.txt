@@ -1,0 +1,84 @@
+﻿** License regulation **
+  * warning
+    This license is a reference. The official license is only Japanese 
+    described in license.txt.
+
+  * license preamble
+    This license is considered to be able to operate as almost as possible 
+    without any restrictions, but please contact the copyright owner if you 
+    find problems in the legal and operational of this license. Also, please 
+    contact the copyright owner for any questions you may have.
+
+    In order to use this software you need to agree on all the terms below.
+
+  1. About Disclaimer
+    This software is not warranted.
+    The copyright owner assumes no responsibility for damages, lost profits, 
+    etc. resulting from using this software. Please use it at your own risk.
+
+  2. About usage forms and places
+    There is no restriction on who, when, where, and how to use this software. 
+    Commercial use (use by corporate etc. profit organization) is also 
+    possible. You need to obtain permission from the copyright owner There is 
+    no. However, except in the following cases.
+
+    This software contains encryption module and encryption key for the purpose 
+    of protecting information. The act of analyzing / decrypting the encryption 
+    key from this software is not allowed.
+
+    We can not accept the act of using or distributing the encryption key that 
+    we could find out by any chance.
+
+    Acting directly from the outside of this software encryption / decryption 
+    module of this software is not allowed.
+    The act of altering the executable file, dynamic link library file, 
+    readme.txt, license.txt, history.txt of this software is not allowed.
+
+    This software is manufactured in Japan. For this reason, we need to comply 
+    with export restrictions in Japan regarding exports outside Japan. 
+    Furthermore, a US-made software component Because we are using, we need to 
+    comply with US export restrictions.
+
+    You can not permit use of beyond the limits of laws, ordinances, etc. of 
+    the country or region you use.
+
+  3. About price
+    This software is distributed free of charge and can be used. Although it 
+    may be distributed and distributed in a fee-based medium, the price of the 
+    software itself is never included in that price.
+
+  4. About redistribution
+    This software is protected under Japanese Copyright Law and International 
+    Treaty. Redistributing part or all of this software "without permission of 
+    the copyright owner" is a copyright infringement so please be careful.
+
+    However, inside the company / organization, there is no problem of placing 
+    the distribution items once acquired on the file server and redistributing 
+    it only to the people inside the company / organization.
+
+  5. About Beta Release Candidate Version
+    If this software is a beta version or release candidate version, please 
+    obtain the previous official release version ahead and make the formal 
+    release version available as soon as it seems to be problematic.
+
+    If this software is a beta or release candidate version, one of the 
+    following wordings is included in the character string representing the 
+    version information dialog's version.
+      beta, release candidate, ベータ, リリース候補
+
+  6. About using screenshots
+    Screenshots during operation of this software There is no limit to the 
+    handling of images or movies. However, if screenshot images or movies are 
+    copyrighted by others In the case of including trade secret, personal 
+    information, etc., it is necessary to follow the handling regulations of 
+    the copyrighted work or information.
+
+  7. On the scope and priority of license terms
+    This license provision does not restrict the rights of users protected by 
+    the laws etc. of the country or region to be used. Even in the act 
+    prohibited by this license, the law will prevail if it can prove that it 
+    is a right protected by the law of the country or region that you use.
+
+    However, please discontinue use if it is judged that "1. About disclaimer" 
+    and the laws, ordinances etc of the country or region you use are 
+    incompatible.
